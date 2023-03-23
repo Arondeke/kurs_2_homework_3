@@ -2,6 +2,8 @@ public class Main {
     public static void main(String[] args) {
 
         int notPushingWithoutProblems = 5;
+        int constantProblems = 5;
+        int zaebalEtotGit = 5;
         Car car1 = new Car("car1", 4);
         Car car2 = new Car("car2", 4);
 
