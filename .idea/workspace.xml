@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="729c3699-75be-4e80-8219-fd9b6a9fdcaf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/diagnostable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ServiceStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServiceStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Truck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +49,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/WORK/SkyPro/hw_spring",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,7 +65,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679242848899</updated>
-      <workItem from="1679242850565" duration="5230000" />
+      <workItem from="1679242850565" duration="5878000" />
+      <workItem from="1679749047777" duration="13921000" />
     </task>
     <task id="LOCAL-00001" summary="я ничего не понял(">
       <created>1679599193815</created>
@@ -74,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679599323744</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="...">
+      <created>1679599661304</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679599661304</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="я ничего не понял(" />
-    <option name="LAST_COMMIT_MESSAGE" value="я ничего не понял(" />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
 </project>
